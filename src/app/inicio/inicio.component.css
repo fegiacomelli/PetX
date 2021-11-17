@@ -1,0 +1,40 @@
+
+.bg-color{
+    background: linear-gradient(to bottom, #7a1c1cff 30%, transparent 70%);
+}
+
+.text-1{
+    font-size: 25px;
+    color: azure;
+}
+.img1{
+    width: 450px;
+    padding: 15px;
+}
+
+.qs{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    color:whitesmoke
+}
+
+
+
+
+@media (max-width:760px){
+
+    .text-1{
+        font-size: 10px;
+        color: azure;
+        text-shadow: black;
+    }
+    .img1{
+        width: 100px;
+        padding: 10px;
+    }
+
+}
+
+

@@ -1,0 +1,49 @@
+.logo{
+    height: 90px;
+}
+
+.logo img{
+    height: 100%;
+}
+
+
+.nav-link{
+    font-size: 30px;
+    margin-left: 60px;
+    margin-bottom: 30px;
+}
+
+
+
+
+.navbar{
+    position:fixed;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to bottom, #7a1c1cff 35%, transparent 65%);
+}
+
+
+@media (max-width:760px){
+    .logo{
+        height: 50px;
+    }
+    
+    .logo img{
+        height: 100%;
+    }   
+
+    .nav-link{
+        font-size: 30px;
+        margin-left: 20px;
+        margin-bottom: 10px;
+    }
+
+    .navbar{
+        position:relative;
+        background-color: #7a1c1cff;
+    }
+
+}

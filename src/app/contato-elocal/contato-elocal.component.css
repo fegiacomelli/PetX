@@ -1,0 +1,41 @@
+.bg-color{
+    background: linear-gradient(to bottom, #7a1c1cff 25%, transparent 75%);
+}
+
+.fotos{
+    width: 600px;
+    height: 350px;
+    padding: 10px;
+}
+
+
+h1{
+    color: azure;
+}
+h4{
+    color: azure;
+}
+
+.local--form{
+    display: flex;
+}
+
+
+@media (max-width:760px){
+    
+    .fotos{
+        width: 305px;
+        height: 200px;
+        padding: 10px;
+    }
+
+    .if{
+        width: 305px;
+    }
+
+    .local--form{
+        display:inline-block;
+    }
+
+
+}

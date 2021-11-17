@@ -1,0 +1,30 @@
+.container{
+    background: linear-gradient(to top, #7a1c1cff 10%, transparent 90%);
+}
+
+
+.nome{
+    margin-left: 50px;
+    font-size: 60px;
+    font-family: 'Road Rage', cursive;
+    color: azure;
+}
+
+.funcionamento{
+    color: azure;
+}
+
+@media (max-width:760px){
+    
+    .nome{
+        font-size: 30px; 
+    }
+
+    .nome--social{
+        display: flex;
+        flex-direction:column;
+        justify-content:space-between;
+    }
+
+}
+

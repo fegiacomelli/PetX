@@ -1,0 +1,44 @@
+.bg-color{
+    background: linear-gradient(to bottom, #7a1c1cff 35%, transparent 65%);
+}
+
+.card-text{
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.card img{
+     max-width: 450px;
+     
+}
+
+.text-cosap{
+    font-size: 25px;
+    font-family: 'Roboto Mono', monospace;
+    text-align:center;
+}
+
+@media (max-width:760px){
+
+    .text-1{
+        font-size: 10px;
+    }
+    .img1{
+        width: 100px;
+        padding: 10px;
+    }
+
+    .text-cosap{
+        font-size: 10px;
+        font-family: 'Roboto Mono', monospace;
+        text-align:center;
+    }
+    
+
+    
+
+
+}
+
+
