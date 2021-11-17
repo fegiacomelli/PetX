@@ -2,6 +2,10 @@
     background: linear-gradient(to bottom, #7a1c1cff 35%, transparent 65%);
 }
 
+body{
+    background-color: white;
+}
+
 .card-text{
     text-align: center;
     font-size: 15px;

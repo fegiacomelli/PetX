@@ -3,6 +3,10 @@
     background: linear-gradient(to bottom, #7a1c1cff 30%, transparent 70%);
 }
 
+body{
+    background-color: white;
+}
+
 .text-1{
     font-size: 25px;
     color: azure;

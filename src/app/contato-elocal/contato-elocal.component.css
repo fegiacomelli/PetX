@@ -20,6 +20,10 @@ h4{
     display: flex;
 }
 
+body{
+    background-color: white;
+}
+
 
 @media (max-width:760px){
     
