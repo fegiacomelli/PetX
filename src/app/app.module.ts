@@ -6,7 +6,6 @@ import { AppComponent } from './app.component';
 import { MenuComponent } from './menu/menu.component';
 import { RodapeComponent } from './rodape/rodape.component';
 import { InicioComponent } from './inicio/inicio.component';
-import { QuemSomosComponent } from './quem-somos/quem-somos.component';
 import { NossaMissaoComponent } from './nossa-missao/nossa-missao.component';
 import { ContatoELocalComponent } from './contato-elocal/contato-elocal.component';
 
@@ -16,7 +15,6 @@ import { ContatoELocalComponent } from './contato-elocal/contato-elocal.componen
     MenuComponent,
     RodapeComponent,
     InicioComponent,
-    QuemSomosComponent,
     NossaMissaoComponent,
     ContatoELocalComponent,
   ],
